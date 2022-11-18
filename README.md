@@ -8,7 +8,7 @@ I'm **Edgar**, 20, from Lille, France.
 
 ## 🔭 Working on
 - Modern Web Technologies.
-- JavaScript, TypeScript and NodeJS.
+- JavaScript, TypeScript, NodeJS.
 - React, Next, Express.
 
 ## 💬 Reach me
@@ -18,8 +18,8 @@ I'm **Edgar**, 20, from Lille, France.
 
 ## More
 - 📖 I'm currently learning [TypeScript](https://www.typescriptlang.org/), [NextJS](https://www.nextjs.org/) and [NodeJS](https://www.nodejs.org/).
-- 💫 Presently, my goal is to become Full Stack Developer.
+- 💫 Presently, my goal is to become a Full Stack Developer.
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcrssn&layout=compact)](https://github.com/edgarcrssn)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=edgarcrssn&show_icons=true)](https://github.com/edgarcrssn)
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=edgarcrssn&show_icons=true)](https://github.com/edgarcrssn) -->
