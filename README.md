@@ -4,7 +4,7 @@ I'm **Edgar**, 21, from Lille, France.
 
 ## I am
 - MSc Pro student at [EPITECH](https://www.epitech.eu/fr/ecole-informatique-lille/) Lille.
-- In a work-study program at [Décathlon Digital](https://digital.decathlon.net/) (BTWIN Village, Lille), as an apprentice Software Engineer.
+- In a work-study program at [Decathlon Digital](https://digital.decathlon.net/) (BTWIN Village, Lille), as an apprentice Software Engineer.
 
 ## 🔭 Working on
 - Modern Web Technologies.
