@@ -1,10 +1,10 @@
 # Hello 👋
 
-I'm **Edgar**, 20, from Lille, France.
+I'm **Edgar**, 21, from Lille, France.
 
 ## I am
-- Bachelor Student at [MDS](https://www.mydigitalschool.com/bachelor-developpeur-web/programme), Lille.
-- In a work-study program at [GROUPE PROJEX](https://www.groupe-projex.fr/), Villeneuve-d'Ascq, as a junior Full Stack Developer.
+- MSc Pro student at [EPITECH](https://www.epitech.eu/fr/ecole-informatique-lille/) Lille.
+- In a work-study program at [Décathlon Digital](https://digital.decathlon.net/) (BTWIN Village, Lille), as an apprentice Software Engineer.
 
 ## 🔭 Working on
 - Modern Web Technologies.
