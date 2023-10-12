@@ -3,10 +3,10 @@
 I'm **Edgar**, 21, from Lille, France.
 
 ## I am
-- MSc Pro student at [EPITECH](https://www.epitech.eu/fr/ecole-informatique-lille/) Lille.
+- Studying at [EPITECH](https://www.epitech.eu/fr/ecole-informatique-lille/) Lille (MSc Pro).
 - Working at [Decathlon Digital](https://digital.decathlon.net/) (BTWIN Village, Lille), as an apprentice Software Engineer.
 
-<!---
+<!--
 ## 🔭 Working on
 - Modern Web Technologies.
 - JavaScript, TypeScript, NodeJS.
@@ -14,7 +14,6 @@ I'm **Edgar**, 21, from Lille, France.
 -->
 
 ## 💬 Reach me
-- GitHub [@edgarcrssn](https://github.com/edgarcrssn)
 - LinkedIn [in/edgarcresson](https://www.linkedin.com/in/edgarcresson/)
 - Email [contact@edgarcresson.fr](mailto:contact@edgarcresson.fr)
 
