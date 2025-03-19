@@ -15,7 +15,6 @@ I'm **Edgar**, 22, from Lille, France.
 
 ## 💬 Reach me
 - LinkedIn [in/edgarcresson](https://www.linkedin.com/in/edgarcresson/)
-- Email [contact@edgarcresson.fr](mailto:contact@edgarcresson.fr)
 
 <!--## More
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcrssn&layout=compact)](https://github.com/edgarcrssn)-->
