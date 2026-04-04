@@ -1,15 +1,14 @@
-# Hello 👋
+# Hello!
 
-I'm **Edgar**, 22, from Lille, France.
+I'm **Edgar**, 23, from Lille, France.
 
 ## I am
-- Working at [Decathlon Digital](https://digital.decathlon.net/) (*BTWIN Village, Lille*), as an apprentice Software Engineer.
-- Studying at [Epitech](https://www.epitech.eu/fr/ecole-informatique-lille/) *Lille* (MSc Pro).
+- Full Stack Developer @ [Silae](https://www.silae.fr/), *Paris*.
 
 <!--
 ## 🔭 Working on
-- Modern Web Technologies.
-- JavaScript, TypeScript, NodeJS.
+- Modern Web and Mobile Technologies.
+- TypeScript, NodeJS.
 - React, Next, Nest...
 -->
 
